@@ -1,0 +1,11 @@
+/* Add new font local and google font */
+@font-face{
+  font-family: myFirstFont;
+  src: url('./fonts/Montserrat-VariableFont_wght.ttf')
+}
+
+h1{
+  font-family: 'myFirstFont';
+  font-size: 54px;
+}
+

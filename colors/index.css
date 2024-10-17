@@ -1,0 +1,13 @@
+/* Add background colors with different formats */
+
+.boxOne{
+  background-color: blue;
+}
+
+.boxTwo{
+  background-color:hsl(132, 68%, 39%)
+}
+
+.boxThree{
+  background-color: rgb(255, 176, 0)
+}

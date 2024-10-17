@@ -1,0 +1,11 @@
+/* Add different shadows to the boxes */
+.boxOne{
+  box-shadow: 2px 4px 8px black;
+}
+.boxTwo{
+  filter: drop-shadow(2px 4px 8px black);
+}
+
+.boxThree p{
+  text-shadow: 2px 4px 8px black;
+}

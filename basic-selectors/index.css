@@ -1,0 +1,12 @@
+/* Add colors to the paragraphs with different selectors */
+p{
+  color: red;
+}
+
+#paragraphOne{
+  color: blue;
+}
+
+.paragraphTwo{
+  color: green;
+}

@@ -1,0 +1,7 @@
+.with-margin {
+  margin-top: 40px;
+}
+.with-position {
+  position: fixed;
+  top: 15px;
+}

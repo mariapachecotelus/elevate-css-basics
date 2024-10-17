@@ -1,0 +1,13 @@
+/* Add margin, padding and border */
+.padding{
+  padding: 50px 20px;
+}
+
+.margin{
+  background-color: #f1f1f1;
+  margin: 50px 20px;
+}
+
+.border{
+  border: 50px dotted #982b2b;
+}

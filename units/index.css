@@ -1,0 +1,21 @@
+/* Font size with rem, em. Box with percentage*/
+
+.boxOne {
+  font-size: 24px;
+}
+
+p{
+  font-size: 2em;
+}
+
+.boxTwo{
+  width: 300px;
+  height: 300px;
+}
+
+/* Add percentage */
+.otherBox{
+  background-color: black;
+  width: 50%;
+  height: 20%;
+}
